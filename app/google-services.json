@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45522229007",
+    "firebase_url": "https://fragmentpractice.firebaseio.com",
+    "project_id": "fragmentpractice",
+    "storage_bucket": "fragmentpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45522229007:android:88c990c5f6e09a2d",
+        "android_client_info": {
+          "package_name": "com.example.anantawasthy.fragmentpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45522229007-sg7h6fnlde3h3vojblc1du6p0cmv3fvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anantawasthy.fragmentpractice",
+            "certificate_hash": "049c3b3fe6e6957afae50dbf31e40ba7de88863a"
+          }
+        },
+        {
+          "client_id": "45522229007-gdk0gm4nmcdfkf6s4sgugue2nekclq70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx07CpCjizWg65yK3AquW856RE1OqWcrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45522229007-gdk0gm4nmcdfkf6s4sgugue2nekclq70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

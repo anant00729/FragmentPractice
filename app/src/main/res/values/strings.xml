@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentPractice</string>
+    <string name="username">Anant S Awasthy</string>
+    <string name="email">anant.awasthy@emefocus.in</string>
+    <string name="proffession">What is your Profession..?</string>
+    <string name="enter_text">Enter Message</string>
+</resources>
